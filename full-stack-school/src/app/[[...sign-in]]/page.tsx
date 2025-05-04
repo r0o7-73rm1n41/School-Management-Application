@@ -30,7 +30,7 @@ const LoginPage = () => {
           >
             <h1 className="text-xl font-bold flex items-center gap-2 text-white">
               <Image src="/logo.png" alt="" width={24} height={24} />
-              SchooLama
+              aku-School
             </h1>
             <h2 className="text-gray-200">Sign in to your account</h2>
             <Clerk.GlobalError className="text-sm text-red-400" />
