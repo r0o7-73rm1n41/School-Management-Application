@@ -1,1 +1,3 @@
 # School-Management-Application
+
+A comprehensive full-stack solution built with Next.js and powered by Prisma ORM and PostgreSQL. Application offers dashboards for different user roles, including administrators, teachers, students, and parents. Key features include attendance monitoring, exam scheduling and tracking, financial management tools etc. Application uses Clerk for secure authentication and is fully containerized with Docker. It also incorporates React components for interactive calendar scheduling, visual data insights, and seamless CRUD operations across interconnected data entities. Designed with CI/CD-ready Docker setups, integrated NextAuth middleware, user interface components to enhance dashboard usability.
